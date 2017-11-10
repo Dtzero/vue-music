@@ -7,11 +7,42 @@
 
 ## 项目截图
 
+**播放器主页**
 
+![image](./static/1.png)
 
-### 安装与运行
+**歌手名单**
 
-git clone https://github.com/HuangCongqing/vue2-music.git
+![image](./static/2.png)
+
+**排行榜**
+
+![image](./static/3.png)
+
+**搜索**
+
+![image](./static/4.png)
+
+**歌手详情页**
+
+![image](./static/5.png)
+
+## 技术栈
+
+*  vue-cli
+*  vue2
+*  vue-router
+*  vuex
+*  axios
+*  stylus
+*  webpack2
+*  fastclick
+*  vue-lazyload
+*  jsonp
+
+## 安装与运行
+
+git clone https://github.com/Dtzero/vue-music.git
 
 cd vue-music
 
@@ -21,15 +52,7 @@ npm run dev //服务端运行 访问 http://localhost:8080
 
 npm run build 项目打包 
 
-```
 
-### TO DO
-
-* listview.vue下的scrollY函数
-
-* 部分接口线上404错误
-
-* 
 
 ## 项目树
 ```
